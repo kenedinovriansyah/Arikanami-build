@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "./arikanami-backend/package.json",
+    "./arikanami-web-service/package.json"
+  ]
+}

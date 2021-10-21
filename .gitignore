@@ -1,2 +1,4 @@
 arikanami-backend/
 arikanami-web-service/
+package-*.json
+node_modules/
